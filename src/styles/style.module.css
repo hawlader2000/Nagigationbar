@@ -1,0 +1,17 @@
+#bgimg {
+  background-image: url("../images/images.jpg");
+  background-attachment: fixed;
+  width: 100%;
+  height: 900px;
+}
+#navli {
+  margin-left: 12px;
+}
+#bgimgtext {
+  padding-top: 200px;
+  text-align: center;
+}
+
+#bgimgtexth1 {
+  font-size: 60px;
+}
